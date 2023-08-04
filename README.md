@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm Mohamed</h1>
-<h3 align="center">I'm a fullstack developer who have a passion for Web Development, I love to create beautiful and functional websites.</h3>
+<h3 align="center">I'm a frontend developer who have a passion for Web Development, I love to create beautiful and functional websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedibrahim13&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedibrahim13" /> </p>
 
